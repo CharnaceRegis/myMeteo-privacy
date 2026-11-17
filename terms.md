@@ -1,4 +1,4 @@
-# Conditions d'utilisation — myMeteo.
+# Conditions d'utilisation — myMeteo
 
 **Dernière mise à jour : 17 novembre 2026**
 
